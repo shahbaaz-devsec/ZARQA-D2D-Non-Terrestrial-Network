@@ -21,7 +21,7 @@ Establishing the Communication-Positioning Trade-off Manifold (CPTM), formalizin
 
 ## Phase 1: Theoretical Foundation & Architecture
 
-[![DOI](https://img.shields.io/badge/DOI-Pending-blue.svg)](#) *(Replace with your Figshare DOI Shield if available)*
+[![DOI](https://img.shields.io/badge/DOI-Pending-blue.svg)](#) 
 
 Our inaugural paper details the core physics, cryptographic frameworks, and mathematical geometry required to execute a computationally immortal telecommunications core without vulnerability to socket starvation, mathematical exceptions, or quantum cryptanalysis.
 
