@@ -29,7 +29,7 @@ Our inaugural paper details the core physics, cryptographic frameworks, and math
 
 **Abstract:** Traditional space-to-terrestrial networks are fundamentally constrained by rigid hardware architectures and vulnerable cryptographic primitives. Phase 1 introduces the ZFMSC, a novel software-defined framework that unifies a Riemannian manifold formulation (CPTM) with a Post-Quantum Cryptographic shield. The system achieves absolute execution stability in high-interference, adversarial environments, deployed within a strictly bounded, hardware-agnostic infrastructure.
 
-* 📄 **Read the full preprint on Figshare:** [INSERT_YOUR_FIGSHARE_DOI_LINK_HERE]
+* 📄 **Read the full preprint on Figshare:** https://doi.org/10.6084/m9.figshare.32968286
 
 ---
 
